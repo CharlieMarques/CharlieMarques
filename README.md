@@ -1,8 +1,11 @@
-<h1 align="center">Hi there👋🏻, I'm Charlie Marques🤵</h1>
-<h3 align="center">Software Developer</h3>
-<img align="center" height="200" src="https://media.giphy.com/media/ao9DUiTKH60XS/giphy.gif"/>
-<h4 align="center"> 🔧Technologies: .Net, C#, SQL, Bootstrap </h4>
-<h4 align="center">📧 Contact: Charlie.Marques1806[at]gmail.com </h4>
+<div align="center">
+ 
+<h1 >Hi there👋🏻, I'm Charlie Marques🤵</h1>
+<h3>Software Developer</h3>
+<img height="200" src="https://media.giphy.com/media/ao9DUiTKH60XS/giphy.gif"/>
+<h4> 🔧Technologies: .Net, C#, SQL, Bootstrap </h4>
+<h4>📧 Contact: Charlie.Marques1806[at]gmail.com </h4>
+</div>
 
 
 ## 🌐 Socials:
